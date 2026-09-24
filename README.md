@@ -18,7 +18,7 @@ More than 30 vulnerabilities reported across 18 programs.
 
 | Writeup | Program | Severity | Status |
 | :--- | :--- | :--- | :--- |
-| [Stored XSS leading to account takeover](https://karl-seryani.github.io/research/nasa-stored-xss/) | NASA | High (P2) | Unresolved |
+| Stored XSS leading to account takeover | NASA | High (P2) | Unresolved |
 
 Public attribution: [Keeper Security’s Backend API 18.1.0 release notes](https://docs.keeper.io/release-notes/backend/backend-api/backend-api-18.1.0).
 
