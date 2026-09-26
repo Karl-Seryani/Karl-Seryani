@@ -32,9 +32,6 @@ and [SQLite injection](https://github.com/zaproxy/zap-extensions/pull/7224).
 
 ## Selected projects
 
-**[The Order](https://github.com/Karl-Seryani/The-Order)**<br>
-Solo Unity horror game. The Hunter reacts to sight, sound, and the player’s flashlight.
-
 **[BetterPrompt](https://github.com/Karl-Seryani/BetterPrompt)**<br>
 VS Code extension that adds workspace context to short Copilot requests.
 
