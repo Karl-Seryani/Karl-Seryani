@@ -32,9 +32,6 @@ and [SQLite injection](https://github.com/zaproxy/zap-extensions/pull/7224).
 
 ## Selected projects
 
-**[BetterPrompt](https://github.com/Karl-Seryani/BetterPrompt)**<br>
-VS Code extension that adds workspace context to short Copilot requests.
-
 **[Social engineering AI](https://karl-seryani.github.io/ai-social-engineering/)**<br>
 A case study on how a false security-lab claim changed an AI assistant’s responses.
 
