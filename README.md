@@ -16,7 +16,7 @@
 Security research across web applications and enterprise software.
 More than 30 vulnerabilities reported across 18 programs.
 
-| Writeup | Program | Severity | Status |
+| Finding | Program | Severity | Status |
 | :--- | :--- | :--- | :--- |
 | Stored XSS leading to account takeover | NASA | High (P2) | Unresolved |
 
