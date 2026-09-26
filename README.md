@@ -38,9 +38,6 @@ VS Code extension that adds workspace context to short Copilot requests.
 **[Social engineering AI](https://karl-seryani.github.io/ai-social-engineering/)**<br>
 A case study on how a false security-lab claim changed an AI assistant’s responses.
 
-**[Studio](https://karl-seryani.github.io/#studio)**<br>
-2D/3D design tool with local hand tracking and voice controls. Work in progress.
-
 ---
 
 Computer science graduate from Western University. Built a learning and community
