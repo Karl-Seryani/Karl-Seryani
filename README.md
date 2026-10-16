@@ -17,7 +17,7 @@ More than 50 vulnerabilities reported across 18 programs.
 
 | Finding | Program | Result |
 | :--- | :--- | :--- |
-| Cross-project disk access in Backup and DR | Google Cloud VRP | Accepted |
+| Cross-project disk access in Backup and DR | Google Cloud VRP | S1C, P1, accepted |
 | Device approval bypass | Keeper Security | High (P2), resolved |
 | SQL injection leading to account takeover | Keeper Security | High (P2), resolved |
 | Broken access control leading to RCE | Keeper Security | Medium (P3), resolved |
