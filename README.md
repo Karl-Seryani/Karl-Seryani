@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://karl-seryani.github.io/">Portfolio</a> &nbsp; / &nbsp;
-  <a href="https://bugcrowd.com/karl001">Bugcrowd</a> &nbsp; / &nbsp;
   <a href="https://www.credly.com/badges/754b86be-3909-43e1-b980-5ab812c9e6cb/linked_in_profile">HTB CWES</a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/karlseryani">LinkedIn</a> &nbsp; / &nbsp;
   <a href="mailto:karlseryani@gmail.com">Email</a>
