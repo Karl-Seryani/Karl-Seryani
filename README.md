@@ -13,14 +13,28 @@
 ## Security research
 
 **$12,000 in bounties. Top 15 in Keeper Security’s Hall of Fame.**
-Security research across web applications and enterprise software.
-More than 30 vulnerabilities reported across 18 programs.
+Security research across web applications, enterprise software, and Google Cloud.
+More than 50 vulnerabilities reported across 18 programs.
 
-| Finding | Program | Severity | Status |
-| :--- | :--- | :--- | :--- |
-| Stored XSS leading to account takeover | NASA | High (P2) | Unresolved |
+| Finding | Program | Result |
+| :--- | :--- | :--- |
+| Cross-project disk access in Backup and DR | Google Cloud VRP | Accepted |
+| Device approval bypass | Keeper Security | High (P2), resolved |
+| SQL injection leading to account takeover | Keeper Security | High (P2), resolved |
+| Broken access control leading to RCE | Keeper Security | Medium (P3), resolved |
+| Stored XSS leading to account takeover | NASA | High (P2), unresolved |
 
 Public attribution: [Keeper Security’s Backend API 18.1.0 release notes](https://docs.keeper.io/release-notes/backend/backend-api/backend-api-18.1.0).
+
+## Selected projects
+
+**[Multi-agent security testing](https://karl-seryani.github.io/#multi-agent-testing)**<br>
+A multi-agent workflow that tests cloud APIs and tries to disprove each result.
+It turned more than 1,500 test ideas into 11 Google Cloud vulnerability reports.
+Google triaged 3 and accepted 1.
+
+**[Social engineering AI](https://karl-seryani.github.io/ai-social-engineering/)**<br>
+A case study on how a false security-lab claim changed an AI assistant’s responses.
 
 ## Open source
 
@@ -30,12 +44,13 @@ and simpler alert-building code.
 [username enumeration](https://github.com/zaproxy/zap-extensions/pull/7249),
 and [SQLite injection](https://github.com/zaproxy/zap-extensions/pull/7224).
 
-## Selected projects
+## Skills
 
-**[Social engineering AI](https://karl-seryani.github.io/ai-social-engineering/)**<br>
-A case study on how a false security-lab claim changed an AI assistant’s responses.
+**Languages:** Python, Java, C, JavaScript, Bash, SQL (PostgreSQL, MySQL, SQLite)<br>
+**Security:** Burp Suite, Caido, OWASP ZAP, ffuf, Gobuster, Nmap, sqlmap, Nuclei, Ghidra, Wazuh<br>
+**Tools:** Git, GitHub, Docker, Linux, Google Cloud, Jira, JUnit 5, Playwright, Claude Code, Codex
 
 ---
 
-Computer science graduate from Western University. Built a learning and community
-platform as a Software Developer Intern at Hatchloom Inc.
+Computer science graduate from Western University, April 2026.
+Previously a SOC Analyst at Kaimz Inc.
