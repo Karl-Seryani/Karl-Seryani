@@ -13,7 +13,7 @@
 
 **$20,000 in bounties. Top 15 in Keeper Security’s Hall of Fame. Member of the Google VRP Hall of Fame.**
 Security research across web applications, enterprise software, and Google Cloud.
-More than 50 vulnerabilities reported across 4 programs.
+More than 30 vulnerabilities reported across 4 programs.
 
 | Finding | Program | Result |
 | :--- | :--- | :--- |
