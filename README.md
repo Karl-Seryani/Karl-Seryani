@@ -39,8 +39,3 @@ and simpler alert-building code.
 [LDAP injection](https://github.com/zaproxy/zap-extensions/pull/7288),
 [username enumeration](https://github.com/zaproxy/zap-extensions/pull/7249),
 and [SQLite injection](https://github.com/zaproxy/zap-extensions/pull/7224).
-
----
-
-Computer science graduate from Western University, April 2026.
-Previously a SOC Analyst at Kaimz Inc.
