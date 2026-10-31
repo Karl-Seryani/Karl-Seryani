@@ -32,9 +32,6 @@ A multi-agent workflow that tests cloud APIs and tries to disprove each result.
 It turned more than 1,500 test ideas into 11 Google Cloud vulnerability reports.
 Google triaged 3 and accepted 1.
 
-**[Social engineering AI](https://karl-seryani.github.io/ai-social-engineering/)**<br>
-A case study on how a false security-lab claim changed an AI assistant’s responses.
-
 ## Open source
 
 **OWASP ZAP:** three merged contributions covering example alerts, tests,
