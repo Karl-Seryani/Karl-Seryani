@@ -40,12 +40,6 @@ and simpler alert-building code.
 [username enumeration](https://github.com/zaproxy/zap-extensions/pull/7249),
 and [SQLite injection](https://github.com/zaproxy/zap-extensions/pull/7224).
 
-## Skills
-
-**Languages:** Python, Java, C, JavaScript, Bash, SQL (PostgreSQL, MySQL, SQLite)<br>
-**Security:** Burp Suite, Caido, OWASP ZAP, ffuf, Gobuster, Nmap, sqlmap, Nuclei, Ghidra, Wazuh<br>
-**Tools:** Git, GitHub, Docker, Linux, Google Cloud, Jira, JUnit 5, Playwright, Claude Code, Codex
-
 ---
 
 Computer science graduate from Western University, April 2026.
